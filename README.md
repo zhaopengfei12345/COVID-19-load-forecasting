@@ -5,26 +5,7 @@ This repository contains the official implementation of the paper
 📄 [Read the paper here](](https://ieeexplore.ieee.org/abstract/document/10068293/))
 
 The dataset used in this work is publicly available at:  
-📊 [Dataset link](https://your-dataset-link.com)
-
----
-
-## Overview
-
-This project implements a two-stage forecasting framework:
-
-1. A residual multi-layer perceptron (Res-MLP) for primary load prediction  
-2. A sparse variational Gaussian Process (SVGP) for residual correction and uncertainty quantification  
-
-The final prediction is obtained by combining the neural network output with the GP posterior mean, while predictive variance is used to construct probabilistic intervals.
-
----
-
-## Environment
-
-- Python 3.8+
-- PyTorch
-- GPyTorch
+📊 [Dataset link]((https://github.com/chennnnnyize-zz/Load-Forecasting-During-COVID-19))
 
 ---
 
