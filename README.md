@@ -1,8 +1,8 @@
-# GP-Enhanced ResMLP for Load Forecasting
+# Gaussian process-aided transfer learning for probabilistic load forecasting against anomalous events
 
 This repository contains the official implementation of the paper  
-**“[Paper Title]”**  
-📄 [Read the paper here](https://your-paper-link.com)
+**“[Gaussian process-aided transfer learning for probabilistic load forecasting against anomalous events]”**  
+📄 [Read the paper here](](https://ieeexplore.ieee.org/abstract/document/10068293/))
 
 The dataset used in this work is publicly available at:  
 📊 [Dataset link](https://your-dataset-link.com)
