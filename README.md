@@ -1,6 +1,6 @@
 # Gaussian Process-Aided Transfer Learning for Probabilistic Load Forecasting Against Anomalous Events
 
-This repository provides the official implementation of the paper:
+This repository provides the official implementation of the TPWRS paper:
 
 **Gaussian Process-Aided Transfer Learning for Probabilistic Load Forecasting Against Anomalous Events**  
 📄 Paper: https://ieeexplore.ieee.org/abstract/document/10068293/
